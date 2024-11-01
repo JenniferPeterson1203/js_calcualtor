@@ -23,6 +23,8 @@ body {
 
 .buttons {
   width: 232px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 button {
@@ -34,4 +36,39 @@ button {
   height: 50px;
   border-radius: 25px;
   margin: 4px;
+}
+
+button:hover {
+  background-color: #ff1493;
+}
+
+button:active {
+  background-color: rgb(24, 3, 13);
+}
+
+#equals {
+  background-color: rgb(242, 24, 129);
+}
+
+#equals:hover {
+  background-color: rgb(183, 63, 159);
+}
+
+#equals:active {
+  background-color: rgb(24, 3, 13);
+}
+
+#clear {
+  width: 100%;
+  background-color: rgb(246, 153, 198);
+  font-size: 30px;
+}
+
+#clear:hover {
+  /* background-color: rgb(183, 63, 159); */
+  background-color: #ff1493;
+}
+
+#clear:active {
+  background-color: rgb(24, 3, 13);
 }
