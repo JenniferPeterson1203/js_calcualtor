@@ -1,4 +1,5 @@
-![JavaScript Calculator](images/calculator_banner.webp)
+<!-- ![JavaScript Calculator](images/calculator.png) -->
+<img src="images/calculator.png" alt="JavaScript Calculator" style="width: 300px; height: auto;">
 
 # JavaScript Calculator
 
