@@ -5,6 +5,10 @@ body {
   height: 100vh;
   background-color: rgb(204, 90, 147);
   /* background-color: rgb(255, 181, 192); */
+
+  /* background-image: url("images/pinkBackground.jpeg"); Replace with your image file name */
+  /* background-size: cover; Cover the entire background */
+  /* background-position: center; */
 }
 
 .calculator {
